@@ -36,4 +36,4 @@ Desarrollador **Full Stack** de Necochea, Argentina. Hoy desarrollo **MedicalDB*
 
 ### 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/benjamin-bosch-/) · [Portfolio](https://mi-portfolio-benjamin-bosch.netlify.app/) · benjabosch5@gmail.com
+[LinkedIn](https://www.linkedin.com/in/benjamin-bosch-/) · [Portfolio](https://benjamin-bosch-portfolio.vercel.app/) · benjabosch5@gmail.com
