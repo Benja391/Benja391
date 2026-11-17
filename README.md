@@ -29,7 +29,7 @@ Desarrollador **Full Stack** de Necochea, Argentina. Hoy desarrollo **MedicalDB*
 |---|---|---|
 | [**Agenda Clínica**](https://github.com/Benja391/Agenda-Clinica) · [demo](https://agenda-clinica-kappa.vercel.app/) | Sistema de turnos para consultorios: agenda, pacientes, validación de superposiciones y métricas. | React · React Router · Tailwind · Vitest |
 | [**App Gastos**](https://github.com/Benja391/App-Gastos) · [demo](https://app-gastos-seven.vercel.app/) | Finanzas personales con presupuestos, gráficos y calendario de pagos. Proyecto de tesis. | Vue · Firebase · Chart.js |
-| [**DV Social**](https://github.com/Benja391/Red-Social) · [demo](https://red-social-chat.netlify.app) | Red social con publicaciones, perfiles y chat en tiempo real. | Vue · Firebase · Tailwind |
+| [**DV Social**](https://github.com/Benja391/Red-Social) · [demo](https://red-social-tan.vercel.app/) | Red social con publicaciones, perfiles y chat en tiempo real. | Vue · Firebase · Tailwind |
 | [**Clash Royale App**](https://github.com/Benja391/Clash-Royale-App) | Explorador de cartas y jugadores con un backend propio que consume la API oficial. | Node.js · Express · Sass |
 | [**PWA Pokémon**](https://github.com/Benja391/PWA-Pokemon) · [demo](https://pwa-pokemon-two.vercel.app/) | App instalable con modo offline que consume la PokeAPI. | JavaScript · PWA |
 | [**Carrito de Compras**](https://github.com/Benja391/Carrito-de-Compras) | Tienda con carrito dinámico y totales en tiempo real. | Vue 3 · JavaScript |
